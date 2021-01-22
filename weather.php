@@ -145,7 +145,6 @@
                               $("#wind_deg1").empty();
                               $("#wind_speed1").empty();
                               $("#clouds1").empty();
-
                             }
                             $(()=>{ 
                                loadweather();
